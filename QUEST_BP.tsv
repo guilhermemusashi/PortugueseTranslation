@@ -98,16 +98,16 @@ QUEST_20150317_000097	$Eu? Eu acho isso engraçado, então apenas o deixo sozinh
 QUEST_20150317_000098	$Uh, espere. Eu retiro o que eu disse sobre não acreditar em tudo que ele diz.
 QUEST_20150317_000099	$Tudo o que voa para fora da boca dele é uma mentira. Não confie nele. 
 QUEST_20150317_000100	$Guarda Siauliai
-QUEST_20150317_000101
-QUEST_20150317_000102
-QUEST_20150317_000103
-QUEST_20150317_000104
-QUEST_20150317_000105
-QUEST_20150317_000106
-QUEST_20150317_000107
-QUEST_20150317_000108
-QUEST_20150317_000109
-QUEST_20150317_000110
+QUEST_20150317_000101 {memo X} Existem monstros além deste ponto. Tenha cuidado.
+QUEST_20150317_000102 Essa floresta não é necessariamente pacífica, mas é melhor que outros lugares. {nl} Tem florestas que não tem nada além de espíritos errantes.
+QUEST_20150317_000103 $É assim que as pessoas que viram a Deusa em seus sonhos estão sendo chamados.
+QUEST_20150317_000104 $Antes eu pensava que as visões dos Reveladores eram apenas loucura. {nl} Afinal de contas, a Deusa está sumida há um bom tempo.
+QUEST_20150317_000105 $Não é verdade que a Deusa não está respondendo às nossas orações desde o Medzio Diena, quatro anos atrás?
+QUEST_20150317_000106 $Você pode encontrar os Mestres de Classes por todo o reino. {nl} Porque você não os visita e aprende o que conseguir?
+QUEST_20150317_000107 $Você não sabe o que é o Medzio Diena? Você realmente deve ter vindo de um lugar muito distante. {nl} Há quatro anos atrás, as coisas sairam de controle na capital.
+QUEST_20150317_000108 {memo X} Foi um desastre... Muitas pessoas foram feridas ou mortas. {nl} Criaturas que eram dóceis ficaram selvagens e muitos monstros novos apareceram.
+QUEST_20150317_000109 $Se você quiser entender o que aconteceu no Medzio Diena, quantro anos atrás, vá para Klaipeda. {nl} Muitos dos sobreviventes se refugiaram lá.
+QUEST_20150317_000110 
 QUEST_20150317_000111
 QUEST_20150317_000112
 QUEST_20150317_000113
